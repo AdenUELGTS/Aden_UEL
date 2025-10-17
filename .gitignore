@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data
+history/
+*.csv
+!HotelPrices.csv
